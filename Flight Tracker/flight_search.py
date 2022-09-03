@@ -1,7 +1,7 @@
 import requests
 from flight_data import FlightData
 
-KIWI_API_KEYS = "44KhZrlNHnbPWAHZRWO1RKv5LE2lBaD8"
+KIWI_API_KEYS = "<YOUR_KIWI_API_KEYS>"
 KIWI_ENDPOINT = "https://tequila-api.kiwi.com"
 kiwi_header = {
     "apikey": KIWI_API_KEYS,
