@@ -70,25 +70,6 @@ if game =="y":
     print (compare(user_score,pc_score))
 
         
-    #     def deal_cards():
-    #         user.append(random.choice(cards))
 
-    #     print (f"Your cards: {user}, current score: {sum(user)} ")
-    #     print (f"Computer's first card: {pc[0]}")
-    #     add_card = print (input("Type 'y' to get another card, type 'n' to pass: "))
-    #     if add_card == 'y':
-    #         deal_cards()
-
-
-
-
-
-    #     # def deal_card(player,cpu):
-    #         # c1 = random.choice(cards)
-
-    #     print (user)
-    #     print (pc)
-    # else:
-    #     print ("Goodbye!")
 
 
